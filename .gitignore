@@ -10,6 +10,7 @@
 *.pdf
 /.idea/
 /out/
+/META-INF/
 
 # Compiled class file
 *.class
